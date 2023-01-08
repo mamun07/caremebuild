@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkui=self.webpackChunkui||[]).push([[2046],{32046:(d,n,a)=>{a.r(n),a.d(n,{ThanaModule:()=>D});var o=a(69808),M=a(21532),s=a(90898),u=a(60597),E=a(93075),r=a(20773),l=a(5e3);let D=(()=>{class _{}return _.\u0275fac=function(P){return new(P||_)},_.\u0275mod=l.oAB({type:_}),_.\u0275inj=l.cJS({imports:[o.ez,M.s,s.q,u.m,r.Cq,E.u5,E.UX]}),_})()}}]);
